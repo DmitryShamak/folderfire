@@ -1,0 +1,27 @@
+{
+  "name": "folderfire",
+  "version": "0.0.2",
+  "description": "Folder Files Renamer",
+  "main": "init.js",
+  "scripts": {
+    "test": "sayHello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DmitryShamak/folderfire.git"
+  },
+  "keywords": [
+    "folderfire"
+  ],
+  "readme": "#folder file renamer readme",
+  "readmeFileName": "",
+  "author": "dmitry.shamak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitryShamak/folderfire/issues"
+  },
+  "homepage": "https://github.com/DmitryShamak/folderfire",
+  "dependencies": {
+    "fs": "0.0.2"
+  }
+}
