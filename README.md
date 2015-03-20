@@ -1,1 +1,1 @@
-Readme file
+Use... rename --folder=<folder> --find=<file name> --replace=<replace file name>

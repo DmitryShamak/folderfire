@@ -1,7 +1,7 @@
 {
   "name": "folderfire",
-  "version": "0.0.2",
-  "description": "Folder Files Renamer",
+  "version": "0.0.4",
+  "description": "Folder Files Rename",
   "main": "init.js",
   "scripts": {
     "test": "sayHello"
@@ -13,7 +13,7 @@
   "keywords": [
     "folderfire"
   ],
-  "readme": "#folder file renamer readme",
+  "readme": "#folder file rename readme",
   "readmeFileName": "",
   "author": "dmitry.shamak",
   "license": "ISC",
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/DmitryShamak/folderfire",
   "dependencies": {
-    "fs": "0.0.2"
+    "fs": "0.0.2",
+    "minimist": "^1.1.1"
   }
 }
